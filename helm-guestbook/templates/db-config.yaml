@@ -5,4 +5,4 @@ metadata:
   annotations:
     argocd.argoproj.io/sync-wave: "1"
 data:
-  db_host="postgres-db"
+  db_host: "postgres-db"
